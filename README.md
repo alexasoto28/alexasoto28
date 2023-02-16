@@ -1,8 +1,8 @@
-### Hi there 👋
+### HOlAAAA!
 
 
 
-Here are some ideas to get you started:
+Algunas cosas sobre mi:
 
 - 🔭 me gusta estudiar
 - 🌱 me gusta la naturaleza
