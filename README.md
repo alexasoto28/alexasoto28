@@ -6,12 +6,12 @@ Here are some ideas to get you started:
 
 - 🔭 me gusta estudiar
 - 🌱 me gusta la naturaleza
-- 👯 me gusta bailar
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 me gusta cantar
+- 🤔me encanta github
+- 💬 me gusta hacer amigos
+- 📫me gusta jugar videojuegos
+- 😄 me encanta estar con mis amigos
+- ⚡Me encanta jugar futbol
 
 # Horario
 | hora   | lunes  | martes  | miercoles | jueves  | viernes |
